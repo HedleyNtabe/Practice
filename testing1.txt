@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 24C3-5B2D
+
+ Directory of C:\Users\hedle\OneDrive\Desktop\Practice
+
+18/08/2021  23:46    <DIR>          .
+18/08/2021  23:46    <DIR>          ..
+18/08/2021  23:46                 0 testing1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  172,185,812,992 bytes free
